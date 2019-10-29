@@ -1,0 +1,19 @@
+{
+  "name": "ncslweb",
+  "version": "0.0.5",
+  "description": "Version 0.0.5 includes an About page, Home page, a standings page, and a players page.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yappermags/ncslweb.git"
+  },
+  "author": "Magnus Peterson Munoz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yappermags/ncslweb/issues"
+  },
+  "homepage": "https://github.com/yappermags/ncslweb#readme"
+}
