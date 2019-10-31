@@ -1,6 +1,6 @@
 ######Website for SSL corp. limited.
 
-Version 0.0.5 includes an About page, Home page, a standings page, and a players page.
+Version 0.0.5 includes an About page, Home page, a Standings page, and a Player Stats page.
 
 ##Home page
 
@@ -14,6 +14,6 @@ A page about the SSL and the players
 
 The stats for the six teams, and the standings of all the teams
 
-##Players Page
+##Player Stats Page
 
 The stats of each Forward, Defencemen, and Goalie, and set their skill in different levels of difficulty, like <a href="github.com/PuckIQ">puckiq.com</a>
