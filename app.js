@@ -11,7 +11,7 @@ app.get("/about", function(res, res){
 })
 
 app.get("/standings", function(res, res){
-	res.render("standings h")
+	res.render("standings")
 })
 
 app.get("/players", function(res, res){

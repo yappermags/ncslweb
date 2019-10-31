@@ -1,4 +1,4 @@
-######Website for SSL corp. limited.
+######Website for Soccer Satellite corp. limited.
 
 Version 0.0.5 includes an About page, Home page, a Standings page, and a Player Stats page.
 
