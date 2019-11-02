@@ -18,6 +18,10 @@ app.get("/players", function(res, res){
 	res.render("players")
 })
 
+app.get("*", function(req, res){
+	res.render("err")
+})
+
 app.listen(5004, function(){
 console.log("App on PORT 5004")
 })
